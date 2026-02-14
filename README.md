@@ -159,7 +159,7 @@ Open in Power BI Desktop
 Use slicers to explore dynamic insights
 
 📸 Dashboard Preview
-![Zomato Dashboard](images/zomato_dashboard.png)
+![Zomato Dashboard](zomato-dashboard-image.png)
 
 
 (Add your image file inside an images folder)
